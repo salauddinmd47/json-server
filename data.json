@@ -1,0 +1,331 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"নোরা",
+            "price":123,
+            "img":"https://i.postimg.cc/D0pg39h2/book2.jpg",
+            "category":"sold"
+
+        },
+        {
+            "id":2,
+            "name":"আমার ছেলেবেলা",
+            "price":123,
+            "img":"https://i.postimg.cc/Dym6PwQm/book3.png",
+            "category":"sold"
+
+        },
+        {
+            "id":3,
+            "name":"গবেষণার হাতেখড়ি",
+            "price":123,
+            "img":"https://i.postimg.cc/1RvMFqqL/book4.jpg",
+            "category":"sold"
+
+        },
+        {
+            "id":4,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"sold"
+
+        },
+        {
+            "id":5,
+            "name":"জীবন গঠনে সাত অভ্যাস",
+            "price":123,
+            "img":"https://i.postimg.cc/SN5rTbVd/book6.png",
+            "category":"sold"
+
+        },
+        {
+            "id":6,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"sold"
+
+        },
+        {
+            "id":7,
+            "name":"আমার ছেলেবেলা",
+            "price":123,
+            "img":"https://i.postimg.cc/Dym6PwQm/book3.png",
+            "category":"sold"
+
+        },
+        {
+            "id":8,
+            "name":"গবেষণার হাতেখড়ি",
+            "price":123,
+            "img":"https://i.postimg.cc/1RvMFqqL/book4.jpg",
+            "category":"sold"
+
+        },
+        {
+            "id":9,
+            "name":"নোরা",
+            "price":123,
+            "img":"https://i.postimg.cc/D0pg39h2/book2.jpg",
+            "category":"sold"
+
+        },
+        {
+            "id":10,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"sold"
+
+        }, 
+         
+      
+        {
+            "id":12,
+            "name":"আমার ছেলেবেলা",
+            "price":123,
+            "img":"https://i.postimg.cc/Dym6PwQm/book3.png",
+            "category":"best seller"
+
+        },
+        {
+            "id":24,
+            "name":"গবেষণার হাতেখড়ি",
+            "price":123,
+            "img":"https://i.postimg.cc/1RvMFqqL/book4.jpg",
+            "category":"new arrival"
+
+        },
+        {
+            "id":11,
+            "name":"নোরা",
+            "price":123,
+            "img":"https://i.postimg.cc/D0pg39h2/book2.jpg",
+            "category":"best seller"
+
+        },
+       
+        {
+            "id":14,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"best seller"
+
+        },
+        {
+            "id":15,
+            "name":"জীবন গঠনে সাত অভ্যাস",
+            "price":123,
+            "img":"https://i.postimg.cc/SN5rTbVd/book6.png",
+            "category":"best seller"
+
+        },
+        {
+            "id":13,
+            "name":"গবেষণার হাতেখড়ি",
+            "price":123,
+            "img":"https://i.postimg.cc/1RvMFqqL/book4.jpg",
+            "category":"best seller"
+
+        },
+        {
+            "id":16,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"best seller"
+
+        },
+        {
+            "id":17,
+            "name":"আমার ছেলেবেলা",
+            "price":123,
+            "img":"https://i.postimg.cc/Dym6PwQm/book3.png",
+            "category":"best seller"
+
+        },
+        {
+            "id":18,
+            "name":"গবেষণার হাতেখড়ি",
+            "price":123,
+            "img":"https://i.postimg.cc/1RvMFqqL/book4.jpg",
+            "category":"best seller"
+
+        },
+        {
+            "id":19,
+            "name":"নোরা",
+            "price":123,
+            "img":"https://i.postimg.cc/D0pg39h2/book2.jpg",
+            "category":"best seller"
+
+        },
+        {
+            "id":20,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"best seller"
+
+        },
+        {
+            "id":21,
+            "name":"জীবন গঠনে সাত অভ্যাস",
+            "price":123,
+            "img":"https://i.postimg.cc/SN5rTbVd/book6.png",
+            "category":"best seller"
+
+        },
+
+        {
+            "id":22,
+            "name":"নোরা",
+            "price":123,
+            "img":"https://i.postimg.cc/D0pg39h2/book2.jpg",
+            "category":"new arrival"
+
+        },
+        {
+            "id":23,
+            "name":"আমার ছেলেবেলা",
+            "price":123,
+            "img":"https://i.postimg.cc/Dym6PwQm/book3.png",
+            "category":"new arrival"
+
+        },
+       
+        {
+            "id":25,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"new arrival"
+
+        },
+        {
+            "id":26,
+            "name":"জীবন গঠনে সাত অভ্যাস",
+            "price":123,
+            "img":"https://i.postimg.cc/SN5rTbVd/book6.png",
+            "category":"new arrival"
+
+        },
+        {
+            "id":27,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"new arrival"
+
+        },
+        {
+            "id":28,
+            "name":"আমার ছেলেবেলা",
+            "price":123,
+            "img":"https://i.postimg.cc/Dym6PwQm/book3.png",
+            "category":"new arrival"
+
+        },
+        {
+            "id":29,
+            "name":"গবেষণার হাতেখড়ি",
+            "price":123,
+            "img":"https://i.postimg.cc/1RvMFqqL/book4.jpg",
+            "category":"new arrival"
+
+        },
+        {
+            "id":30,
+            "name":"নোরা",
+            "price":123,
+            "img":"https://i.postimg.cc/D0pg39h2/book2.jpg",
+            "category":"new arrival"
+
+        },
+        {
+            "id":31,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"new arrival"
+
+        }, 
+        
+        {
+            "id":32,
+            "name":"নোরা",
+            "price":123,
+            "img":"https://i.postimg.cc/D0pg39h2/book2.jpg",
+            "category":"pre-ordered-book"
+
+        },
+        {
+            "id":33,
+            "name":"আমার ছেলেবেলা",
+            "price":123,
+            "img":"https://i.postimg.cc/Dym6PwQm/book3.png",
+            "category":"pre-ordered-book"
+
+        },
+       
+        {
+            "id":34,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"pre-ordered-book"
+
+        },
+        {
+            "id":35,
+            "name":"জীবন গঠনে সাত অভ্যাস",
+            "price":123,
+            "img":"https://i.postimg.cc/SN5rTbVd/book6.png",
+            "category":"pre-ordered-book"
+
+        },
+        {
+            "id":36,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"pre-ordered-book"
+
+        },
+        {
+            "id":37,
+            "name":"আমার ছেলেবেলা",
+            "price":123,
+            "img":"https://i.postimg.cc/Dym6PwQm/book3.png",
+            "category":"new arrival"
+
+        },
+        {
+            "id":38,
+            "name":"গবেষণার হাতেখড়ি",
+            "price":123,
+            "img":"https://i.postimg.cc/1RvMFqqL/book4.jpg",
+            "category":"pre-ordered-book"
+
+        },
+        {
+            "id":29,
+            "name":"নোরা",
+            "price":123,
+            "img":"https://i.postimg.cc/D0pg39h2/book2.jpg",
+            "category":"pre-ordered-book"
+
+        },
+        {
+            "id":30,
+            "name":"নজরুল সমগ্র",
+            "price":123,
+            "img":"https://i.postimg.cc/1X3HT9LC/book1.png",
+            "category":"pre-ordered-book"
+
+        }
+    ]
+}
