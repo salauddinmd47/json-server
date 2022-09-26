@@ -1,5 +1,5 @@
 # json-server
 ## to strat:
-# npm install
+#npm install
 #npm run serve-json
 
